@@ -1,0 +1,6 @@
+DANH SÁCH CHI TIÊU
+bánh: 10000.0 VND
+kẹo: 5000.0 VND
+--------------------
+Tổng cộng: 15000.0 VND
+Món đắt nhất: bánh (10000.0 VND)
